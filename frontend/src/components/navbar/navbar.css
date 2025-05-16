@@ -90,5 +90,12 @@
         margin: 0.5rem 0;
         flex: unset;
     }
+.hamburger {
+font-size: 28px;
+background: none;
+border: none;
+color: white;
+cursor: pointer;
+margin-right: 15px;
+}
   }
-  
