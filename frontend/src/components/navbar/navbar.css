@@ -90,5 +90,17 @@
         margin: 0.5rem 0;
         flex: unset;
     }
+<<<<<<< HEAD
   }
   
+=======
+.hamburger {
+font-size: 28px;
+background: none;
+border: none;
+color: white;
+cursor: pointer;
+margin-right: 15px;
+}
+  }
+>>>>>>> 4815882e3199dc3b47c96d9149d5af4c0b744d91
